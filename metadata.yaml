@@ -1,10 +1,16 @@
 _repo: Thoughts-on-General-and-Partial-Inoculations-Containing-a-translation-of-two-treatises-writte__49476
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49476-h/images/cover.jpg
 creator:
   author:
     agent_name: Dimsdale, Thomas
     gutenberg_agent_id: '45358'
     url: http://www.gutenberg.org/2009/agents/45358
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49476#Thoughts-on-General-and-Partial-Inoculations-Containing-a-translation-of-two-treatises-writte_
 gutenberg_issued: '2015-07-18'
 gutenberg_type: Text
 identifiers:
